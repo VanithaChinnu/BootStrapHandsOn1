@@ -69,6 +69,7 @@
   <ItemGroup>
     <Content Include="Scripts\bootstrap.css" />
     <Content Include="Scripts\HtmlPage1.html" />
+    <Content Include="Scripts\HtmlPage2.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
